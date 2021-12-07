@@ -1,11 +1,11 @@
 # new-mac
 
-xcode
-xcode Command Line Tools 
+- xcode
+- xcode Command Line Tools 
 
 
-iTerm
-oh-my-zsh
-starship
-brew
+- iTerm
+- oh-my-zsh
+- starship
+- brew
 
