@@ -9,3 +9,7 @@
 - starship
 - brew
 
+- https://github.com/rxhanson/Rectangle
+- dozer
+- bettertouch
+- https://gist.github.com/ogrrd/5831371
